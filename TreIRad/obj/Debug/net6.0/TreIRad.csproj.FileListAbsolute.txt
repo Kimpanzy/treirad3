@@ -1,0 +1,15 @@
+C:\Users\kimpe\source\repos\TreIRad\bin\Debug\net6.0\TreIRad.exe
+C:\Users\kimpe\source\repos\TreIRad\bin\Debug\net6.0\TreIRad.deps.json
+C:\Users\kimpe\source\repos\TreIRad\bin\Debug\net6.0\TreIRad.runtimeconfig.json
+C:\Users\kimpe\source\repos\TreIRad\bin\Debug\net6.0\TreIRad.dll
+C:\Users\kimpe\source\repos\TreIRad\bin\Debug\net6.0\TreIRad.pdb
+C:\Users\kimpe\source\repos\TreIRad\obj\Debug\net6.0\TreIRad.csproj.AssemblyReference.cache
+C:\Users\kimpe\source\repos\TreIRad\obj\Debug\net6.0\TreIRad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kimpe\source\repos\TreIRad\obj\Debug\net6.0\TreIRad.AssemblyInfoInputs.cache
+C:\Users\kimpe\source\repos\TreIRad\obj\Debug\net6.0\TreIRad.AssemblyInfo.cs
+C:\Users\kimpe\source\repos\TreIRad\obj\Debug\net6.0\TreIRad.csproj.CoreCompileInputs.cache
+C:\Users\kimpe\source\repos\TreIRad\obj\Debug\net6.0\TreIRad.dll
+C:\Users\kimpe\source\repos\TreIRad\obj\Debug\net6.0\refint\TreIRad.dll
+C:\Users\kimpe\source\repos\TreIRad\obj\Debug\net6.0\TreIRad.pdb
+C:\Users\kimpe\source\repos\TreIRad\obj\Debug\net6.0\TreIRad.genruntimeconfig.cache
+C:\Users\kimpe\source\repos\TreIRad\obj\Debug\net6.0\ref\TreIRad.dll
